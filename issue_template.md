@@ -1,7 +1,7 @@
-- Expected behavior and actual behavior:
+- **Expected behavior and actual behavior:**
 
-- Steps to reproduce the problem:
+- **Steps to reproduce the problem:**
 
-- Version of the project:
+- **Version of the project:**
 
-- Operating system:
+- **Operating system:**
